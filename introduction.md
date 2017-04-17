@@ -5,4 +5,5 @@ Use for codeschool.com project
 *C#
 *SQL
 *SSRS
+*PBI
 *Killing history using git release
