@@ -7,3 +7,4 @@ Use for codeschool.com project
 *SSRS
 *PBI
 *Killing history using git release
+*rebase
